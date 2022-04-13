@@ -3,7 +3,7 @@
 solving data signing, data availability and integrity issues.
 
 ## SimpleNodes Description
-Simple nodes consists of 3 different sub directories named data signing, data availability, data integrity.
+Simple nodes consists of 3 different sub branches named data signing, data availability, data integrity.
 
 ## What it's not
 It's not a technology that **helps users to create or to manage their private/secret keys.**
